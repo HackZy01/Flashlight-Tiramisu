@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Flashlight Tiramisu</string>
+    <string name="add_qs_title">Dodaj kafelek do szybkich ustawień</string>
+    <string name="settings">Ustawienia</string>
+
+    <string name="default_value_text" formatted="false">Zapisana wartość: %d%%</string>
+    <string name="save_as_default_value">Zapisz wartość z suwaka jako domyślną</string>
+
+    <string name="github">Mój profil GitHub</string>
+    <string name="label_main">Sterowanie</string>
+    <string name="slider_turns_on_the_flashlight">Suwak włącza latarkę</string>
+    <string name="auto_set_slider_from_default_value">Ustaw wartość suwaka na domyślną wartość</string>
+    <string name="settings_segment_values">Wartości na przyciskach segmentu</string>
+    <string name="option_1">1% | 25% | 50% | 100%</string>
+    <string name="option_2">25% | 50% | 75% | 100%</string>
+    <string name="explanation_of_setting_items">Explanation of setting items</string>
+
+    <string name="supporting_text">1. Slider turns on the flashlight - Auto turn on flashlight when slider value/position changes. \n2. Set slider to saved value - Set the slider position to the saved value after turning on the flashlight via button.\n3. Turn on flashlight when app starts - The flashlight will automatically turn on when you launch this application.\n4. Selecting segment button values between two options:\n    • 1 option is (1% | 25% | 50% | 100%)\n    • 2 option is (25% | 50% | 75% | 100%)</string>
+    <string name="dialog_options">Ró</string>
+    <string name="accept">OK</string>
+    <string name="decline">Kopiuj tekst</string>
+    <string name="copied_to_clipboard">Tekst skopiowany do schowka</string>
+    <string name="device_not_support">Urządzenie nie jest wspierane przez tą aplikację</string>
+    <string name="exit_the_application">Wyjdź z aplikacji</string>
+
+    <string name="tile_title">Flashlight</string>
+    <string name="tile_subtitle_saved_brightness" formatted="false">Zapisano: %d%%</string>
+    <string name="tile_subtitle_application_launched">Aplikacja uruchomioma</string>
+    <string name="auto_turn_on_flashlight_when_app_starts">Włącz latarkę automatycznie po uruchomieniu aplikacji</string>
+</resources>
